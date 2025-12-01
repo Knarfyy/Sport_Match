@@ -8,8 +8,8 @@ Match Sport Partner est une application mobile conçue pour les 20-35 ans qui r�
 ## 🧠 Le Challenge Technique
 Le cœur de notre challenge réside dans notre **algorithme de recommandation précis** pour le matching de niveaux/allures, et dans la construction d'une **infrastructure Back-End Java/Spring** robuste et sécurisée (anti-abus, RGPD).
 
-## 📣 Présentation Promotionnelle (Livrable 4)
-Découvrez notre vision complète du projet et le défi technique qui vous attend !
+## 📣 Présentation Promotionnelle 
+Découvrez notre vision complète du projet
 
 **[Lien vers la Présentation Promotionnelle/Vidéo]**
 `(Exemple : https://canva.com/link-vers-votre-presentation)`
